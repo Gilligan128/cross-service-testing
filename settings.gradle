@@ -1,2 +1,2 @@
-include 'test', ':order-service', ':fulfillment-service'
+include 'test', ':order-service', ':fulfillment-service', ':integration-tests'
 
